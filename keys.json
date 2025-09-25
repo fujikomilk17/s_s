@@ -1,0 +1,10 @@
+{
+  "adminKeys": {
+    "admin-hiura-2006": "lifetime"
+  },
+  "userKeys": {
+    "aimx-12345678": "1d",
+    "aimx-98765432": "7d",
+    "aimx-24681357": "30d"
+  }
+}
