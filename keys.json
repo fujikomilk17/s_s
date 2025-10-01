@@ -6,5 +6,9 @@
     "aimx-12345678": "1d",
     "aimx-98765432": "7d",
     "aimx-24681357": "30d"
+  },
+  "invitationKeys": {
+    "inv-2025-abc": "Undangan Spesial",
+    "inv-2025-def": "Teman Nino"
   }
 }
